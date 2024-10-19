@@ -1,0 +1,11 @@
+scripts
+.github
+.git 
+bin
+docs
+.clang-format
+.gitattributes
+.gitignore
+.travis.yml
+build.sh
+compile_commands.json
